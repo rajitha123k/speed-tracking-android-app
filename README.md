@@ -26,7 +26,7 @@ This demo provides an illustration on how the android app can be blocked from us
 
 In this application, we use the SDK to retrieve details about the logged in user, extract all the direct contacts of that user, and use messaging and meeting features to engage with their contacts. This application also demonstrates how to add meeting controls like muting the audio, muting the video, screen sharing, speaker mode, holding the call etc. You can also login and logout of the app using OAuth webview.  
 
-[![Android SDK Demo App](speed_tracker.PNG)](https://app.vidcast.io/share/27203b80-3443-4b7c-bfb2-44c1fb15d463, "Android SDK Demo App")
+[![Android SDK Demo App](speed_tarcker.png)](https://app.vidcast.io/share/27203b80-3443-4b7c-bfb2-44c1fb15d463, "Android SDK Demo App")
 
 <!-- Keep the following here -->  
  *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._

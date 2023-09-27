@@ -20,7 +20,6 @@ Examples:"bot- <insert repo name>"
 <!--  Step 3) Use following Template to copy/paste your details below -->
 
 # Speed Tracking Android App
- Welcome to our WXSD DEMO Repo! <!-- Keep this here --> 
  
 This demo provides an illustration on how the android app can be blocked from usage while driving and also set the Webex status of the driver to Donot Disturb and custom status to Driving.
 
@@ -31,18 +30,7 @@ In this application, we use the SDK to retrieve details about the logged in user
 <!-- Keep the following here -->  
  *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
 
-## Table of Contents
-<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
-<details>
-<summary>(click to expand)</summary>
-    
-  * [Setup](#setup)
-  * [Demo](#demo)
-  * [License](#license)  
-  * [Support](#support)
 
-</details>
-<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
 
 ## Setup
@@ -64,22 +52,3 @@ In this application, we use the SDK to retrieve details about the logged in user
     REDIRECT_URI=""
     ```
 3.  Run this project on android emulator or on local device
-    
-    
-## Live Demo
-
-<!-- Insert link to the website below (if deployed) and/or to the YouTube/Vidcast video. -->
-
-Check out our live demo, available [here](<https://app.vidcast.io/share/27203b80-3443-4b7c-bfb2-44c1fb15d463>)!
-
-<!-- Keep the following statement -->
-*For more demos & PoCs like this, check out our [Webex Labs site](https://collabtoolbox.cisco.com/webex-labs).
-
-## License
-
-View MIT License [here](LICENSE)
-
-
-## Support
-
-Please contact the WXSD team at [wxsd@external.cisco.com](mailto:wxsd@external.cisco.com?subject=RepoName) for questions. Or for Cisco internal, reach out to us on Webex App via our bot globalexpert@webex.bot & choose "Engagement Type: API/SDK Proof of Concept Integration Development". 
